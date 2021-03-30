@@ -1,0 +1,15 @@
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\bin\Debug\exercice 5.exe.config
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\bin\Debug\exercice 5.exe
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\bin\Debug\exercice 5.pdb
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\exercice 5.csprojAssemblyReference.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\MainWindow.g.cs
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\App.g.cs
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\exercice 5_MarkupCompile.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\exercice 5_MarkupCompile.lref
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\MainWindow.baml
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\exercice 5.g.resources
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\exercice_5.Properties.Resources.resources
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\exercice 5.csproj.GenerateResource.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\exercice 5.csproj.CoreCompileInputs.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\exercice 5.exe
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 5\exercice 5\obj\Debug\exercice 5.pdb

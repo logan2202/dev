@@ -1,0 +1,52 @@
+C:\Users\LMNO021\source\repos\Projet1\Projet\bin\Debug\netcoreapp3.1\Projet.exe
+C:\Users\LMNO021\source\repos\Projet1\Projet\bin\Debug\netcoreapp3.1\Projet.deps.json
+C:\Users\LMNO021\source\repos\Projet1\Projet\bin\Debug\netcoreapp3.1\Projet.runtimeconfig.json
+C:\Users\LMNO021\source\repos\Projet1\Projet\bin\Debug\netcoreapp3.1\Projet.runtimeconfig.dev.json
+C:\Users\LMNO021\source\repos\Projet1\Projet\bin\Debug\netcoreapp3.1\Projet.dll
+C:\Users\LMNO021\source\repos\Projet1\Projet\bin\Debug\netcoreapp3.1\Projet.pdb
+C:\Users\LMNO021\source\repos\Projet1\Projet\obj\Debug\netcoreapp3.1\Projet.csprojAssemblyReference.cache
+C:\Users\LMNO021\source\repos\Projet1\Projet\obj\Debug\netcoreapp3.1\Projet.AssemblyInfoInputs.cache
+C:\Users\LMNO021\source\repos\Projet1\Projet\obj\Debug\netcoreapp3.1\Projet.AssemblyInfo.cs
+C:\Users\LMNO021\source\repos\Projet1\Projet\obj\Debug\netcoreapp3.1\Projet.csproj.CoreCompileInputs.cache
+C:\Users\LMNO021\source\repos\Projet1\Projet\obj\Debug\netcoreapp3.1\Projet.dll
+C:\Users\LMNO021\source\repos\Projet1\Projet\obj\Debug\netcoreapp3.1\Projet.pdb
+C:\Users\LMNO021\source\repos\Projet1\Projet\obj\Debug\netcoreapp3.1\Projet.genruntimeconfig.cache
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\obj\Debug\netcoreapp3.1\Projet.csprojAssemblyReference.cache
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\obj\Debug\netcoreapp3.1\Projet.AssemblyInfoInputs.cache
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\obj\Debug\netcoreapp3.1\Projet.AssemblyInfo.cs
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\obj\Debug\netcoreapp3.1\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\obj\Debug\netcoreapp3.1\Projet.dll
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\obj\Debug\netcoreapp3.1\Projet.pdb
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\bin\Debug\netcoreapp3.1\Projet.exe
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\bin\Debug\netcoreapp3.1\Projet.deps.json
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\bin\Debug\netcoreapp3.1\Projet.runtimeconfig.json
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\bin\Debug\netcoreapp3.1\Projet.runtimeconfig.dev.json
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\bin\Debug\netcoreapp3.1\Projet.dll
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\bin\Debug\netcoreapp3.1\Projet.pdb
+C:\Users\Brice\Desktop\DevPoint VS+Git\repos\ProjetC-\Projet\obj\Debug\netcoreapp3.1\Projet.genruntimeconfig.cache
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\bin\Debug\netcoreapp3.1\Projet.exe
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\bin\Debug\netcoreapp3.1\Projet.deps.json
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\bin\Debug\netcoreapp3.1\Projet.runtimeconfig.json
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\bin\Debug\netcoreapp3.1\Projet.runtimeconfig.dev.json
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\bin\Debug\netcoreapp3.1\Projet.dll
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\bin\Debug\netcoreapp3.1\Projet.pdb
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\obj\Debug\netcoreapp3.1\Projet.csprojAssemblyReference.cache
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\obj\Debug\netcoreapp3.1\Projet.AssemblyInfoInputs.cache
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\obj\Debug\netcoreapp3.1\Projet.AssemblyInfo.cs
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\obj\Debug\netcoreapp3.1\Projet.csproj.CoreCompileInputs.cache
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\obj\Debug\netcoreapp3.1\Projet.dll
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\obj\Debug\netcoreapp3.1\Projet.pdb
+C:\Users\LMNO021\Desktop\ProjetC--main\Projet\obj\Debug\netcoreapp3.1\Projet.genruntimeconfig.cache
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\bin\Debug\netcoreapp3.1\Projet.exe
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\bin\Debug\netcoreapp3.1\Projet.deps.json
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\bin\Debug\netcoreapp3.1\Projet.runtimeconfig.json
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\bin\Debug\netcoreapp3.1\Projet.runtimeconfig.dev.json
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\bin\Debug\netcoreapp3.1\Projet.dll
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\bin\Debug\netcoreapp3.1\Projet.pdb
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\obj\Debug\netcoreapp3.1\Projet.csprojAssemblyReference.cache
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\obj\Debug\netcoreapp3.1\Projet.AssemblyInfoInputs.cache
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\obj\Debug\netcoreapp3.1\Projet.AssemblyInfo.cs
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\obj\Debug\netcoreapp3.1\Projet.csproj.CoreCompileInputs.cache
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\obj\Debug\netcoreapp3.1\Projet.dll
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\obj\Debug\netcoreapp3.1\Projet.pdb
+C:\Users\tazmax\Documents\dev\csharp\projet groupe\Projet\obj\Debug\netcoreapp3.1\Projet.genruntimeconfig.cache

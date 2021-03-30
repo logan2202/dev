@@ -1,0 +1,23 @@
+.bleu {
+    background-color: #2574a9;
+}
+
+.violet {
+    background-color: #9a12b3;
+}
+
+.rose {
+    background-color: #db0a5b;
+}
+body
+{
+    color: white;
+}
+#cards
+{
+    list-style: none;
+}
+
+
+
+

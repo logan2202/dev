@@ -1,0 +1,13 @@
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\obj\Debug\netcoreapp3.1\programme orienter objets.csprojAssemblyReference.cache
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\obj\Debug\netcoreapp3.1\programme orienter objets.AssemblyInfoInputs.cache
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\obj\Debug\netcoreapp3.1\programme orienter objets.AssemblyInfo.cs
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\obj\Debug\netcoreapp3.1\programme orienter objets.csproj.CoreCompileInputs.cache
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\bin\Debug\netcoreapp3.1\programme orienter objets.exe
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\bin\Debug\netcoreapp3.1\programme orienter objets.deps.json
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\bin\Debug\netcoreapp3.1\programme orienter objets.runtimeconfig.json
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\bin\Debug\netcoreapp3.1\programme orienter objets.runtimeconfig.dev.json
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\bin\Debug\netcoreapp3.1\programme orienter objets.dll
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\bin\Debug\netcoreapp3.1\programme orienter objets.pdb
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\obj\Debug\netcoreapp3.1\programme orienter objets.dll
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\obj\Debug\netcoreapp3.1\programme orienter objets.pdb
+C:\Users\tazmax\Documents\dev\programation orienter objets\programme orienter objets\programme orienter objets\obj\Debug\netcoreapp3.1\programme orienter objets.genruntimeconfig.cache

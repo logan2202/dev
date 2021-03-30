@@ -1,0 +1,22 @@
+INSERT INTO poiuy_patients([lastname],[firstname],[dateofbirth], [id_poiuy_doctors])
+VALUES
+('Kirk','Raya','1987-07-21', 1),
+('Flowers','Jonah','2018-05-28', 2),
+('Farley','Rhea','2018-09-01', 1),
+('Hammond','Bruce','1975-11-25', 2),
+('Martinez','Quamar','1994-07-20', 1),
+('Arnold','Whoopi','2005-11-19', 2),
+('Henry','Nigel','2002-12-27', 1),
+('Garza','April','1979-12-15', 2),
+('Noble','Tiger','1992-08-09', 1),
+('Clemons','Dahlia','1998-04-12', 2),
+('Carter','Lesley','1953-06-24', 1),
+('Bradford','Sloane','1991-11-09', 2),
+('Wallace','Frances','1972-08-02', 1),
+('Kinney','Vanna','1969-06-18', 2),
+('Camacho','Marvin','1984-08-13', 1),
+('Rogers','Tashya','1958-11-22', 2),
+('Gordon','Rinah','1995-11-08', 1),
+('Love','Tanya','1960-07-18', 2),
+('Cleveland','Nora','1952-08-08', 1),
+('Phillips','Lysandra','2012-12-16', 2);

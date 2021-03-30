@@ -1,0 +1,1 @@
+EXEC sp_RENAME 'clients.firstPhoneNumber' , 'phoneNumber', 'COLUMN'

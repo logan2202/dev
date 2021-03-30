@@ -1,0 +1,29 @@
+﻿<Window x:Class="agenda.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:agenda"
+        mc:Ignorable="d"
+        Title="Agenda LaManu" Height="450" Width="800" Icon="Exercice5_laManu.jpg">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_Clients">
+                <MenuItem x:Name="AddCustomer" Header="_Ajouter un Client" Click="AddCustomer_Click" />
+                <MenuItem x:Name="ListCustomers" Header="_Liste des Clients" Click="ListCustomers_Click" />
+            </MenuItem>
+            <MenuItem Header="_Courtiers">
+                <MenuItem x:Name="AddBroker" Header="_Ajouter un Courtier" Click="AddBroker_Click" />
+                <MenuItem x:Name="ListBroker" Header="_Liste des Courtiers" Click="ListBroker_Click" />
+            </MenuItem>
+            <MenuItem Header="_Rendez-Vous">
+                <MenuItem x:Name="AddRdv" Header="_Ajouter un RDV" Click="AddRdv_Click" />
+                <MenuItem x:Name="ListRdv" Header="_Liste des RDV" Click="ListRdv_Click" />
+            </MenuItem>
+        </Menu>
+        <Grid>
+            <TextBlock HorizontalAlignment="Center" FontSize="28" Foreground="#FF4B6AA2" FontWeight="Bold" TextDecorations="{x:Null}">- Gestion des rendez-vous -</TextBlock>
+            <Frame x:Name="FrameContent" Height="501" VerticalAlignment="Top" NavigationUIVisibility="Hidden" Margin="0,48,0,0"/>   
+        </Grid>
+    </DockPanel>
+</Window>

@@ -1,0 +1,68 @@
+table
+{
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+    width: 100%;
+    font-size: 25px;
+    font-family: 'Arima Madurai', cursive;
+}
+td, th
+{
+    border: 1px solid black;
+  
+}
+.yoga
+{
+    background-color: #009bcc;
+    color: white;
+}
+.biking
+{
+    background-color: #96c21f;
+    color: white;
+}
+.stretching
+{
+    background-color:  #11bcaf;
+    color: white;
+}
+.cardio
+{
+    background-color: #7459ad;
+    color: white;
+}
+.self-defense
+{
+    background-color: #e65686;
+    color: white;
+}
+.boxe
+{
+    background-color: #d9006b;
+    color: white;
+}
+.crossfit
+{
+    background-color: #ec6b05;
+    color: white;
+}
+.gris
+{
+    background-color: #e6e4e6;
+}
+.hachures
+{
+    background-image:url(stripes.png);
+}
+.heure
+{
+    table-layout: fixed;
+    height: 75px;
+}
+.food
+{
+    table-layout: fixed;
+    height: 45px;
+}
+

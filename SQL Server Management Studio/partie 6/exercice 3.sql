@@ -1,0 +1,1 @@
+SELECT * FROM ide WHERE id in (3, 4, 6);

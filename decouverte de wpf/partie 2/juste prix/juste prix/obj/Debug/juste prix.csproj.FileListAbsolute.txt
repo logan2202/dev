@@ -1,0 +1,15 @@
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\bin\Debug\juste prix.exe.config
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\bin\Debug\juste prix.exe
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\bin\Debug\juste prix.pdb
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\juste prix.csprojAssemblyReference.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\MainWindow.g.cs
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\App.g.cs
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\juste prix_MarkupCompile.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\juste prix_MarkupCompile.lref
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\MainWindow.baml
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\juste prix.g.resources
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\juste_prix.Properties.Resources.resources
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\juste prix.csproj.GenerateResource.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\juste prix.csproj.CoreCompileInputs.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\juste prix.exe
+C:\Users\tazmax\Documents\dev\decouverte de wpf\partie 2\juste prix\juste prix\obj\Debug\juste prix.pdb

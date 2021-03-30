@@ -1,0 +1,14 @@
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\bin\Debug\exercice 4.exe.config
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\bin\Debug\exercice 4.exe
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\bin\Debug\exercice 4.pdb
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\MainWindow.g.cs
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\App.g.cs
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\exercice 4_MarkupCompile.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\exercice 4_MarkupCompile.lref
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\MainWindow.baml
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\exercice 4.g.resources
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\exercice_4.Properties.Resources.resources
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\exercice 4.csproj.GenerateResource.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\exercice 4.csproj.CoreCompileInputs.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\exercice 4.exe
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercice 4\exercice 4\obj\Debug\exercice 4.pdb

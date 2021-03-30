@@ -1,0 +1,15 @@
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\bin\Debug\exercie 3.exe.config
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\bin\Debug\exercie 3.exe
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\bin\Debug\exercie 3.pdb
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\exercie 3.csprojAssemblyReference.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\MainWindow.g.cs
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\App.g.cs
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\exercie 3_MarkupCompile.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\exercie 3_MarkupCompile.lref
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\MainWindow.baml
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\exercie 3.g.resources
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\exercie_3.Properties.Resources.resources
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\exercie 3.csproj.GenerateResource.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\exercie 3.csproj.CoreCompileInputs.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\exercie 3.exe
+C:\Users\tazmax\Documents\dev\decouverte de wpf\exercie 3\exercie 3\obj\Debug\exercie 3.pdb

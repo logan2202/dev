@@ -1,0 +1,156 @@
+body{
+    font-size: 16px;
+    padding: 2% 2%;
+}
+#sideBarNav{
+  background-color: #FCB040;
+}
+
+.nav-link{
+    font-size: 1.5em;
+}
+
+#agencyName{
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size:20px;
+}
+
+#logoTraGel{
+  padding-left: 10%;
+    padding-top: 1em;
+    height: 10em;
+    background-color: #367EAF;
+    color: #FCB040;
+    text-align: center;
+}
+.plane{
+    padding-left: 20%;
+}
+
+#valid{
+    padding-top: 1em;
+    border-radius: 20px;
+}
+#video{
+  padding: 3% 3%;
+}
+
+#healthMeasures{
+    padding: 3% 3%;
+}
+#cruise{
+  padding: 3% 3%;
+}
+#parallaxOne{
+  padding: 3% 3%;
+}
+#stay{
+  padding: 3% 3%;
+}
+#parallaxTwo{
+  padding: 3% 3%;
+}
+#track{
+  padding: 3% 3%;
+}
+.mask{
+    padding-left: 2em;
+}
+
+.socialNetworks{
+    padding-right : 20px;
+}
+
+i.fas.fa-rocket{
+    text-align: right;
+
+}
+
+
+
+
+.prev{
+    border: solid 2px  #FCB040;
+    border-radius: 6px;
+    margin: 0 8px;
+    padding: 2% 20px 20px;
+    width: 241px;
+}
+.icon{
+    color: #367EAF;
+	padding-bottom: 2%;
+}
+.card-body{
+	 border: solid 2px  #367EAF;
+}
+.card-footer{
+	background-color: #FCB040;
+}
+.parallax-one{
+    background-image: url(../img/parralax1.png);
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.parallax-two{
+    background-image: url(../img/parralax2.png);
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.img{
+    width: 300px;
+    height: 300px;
+}
+footer{
+    padding-top: 4em;
+    background-color: #367EAF;
+    padding-bottom: 2em;
+}
+#socialNetworks{
+    padding-right: 1em;
+    padding-top: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+i.fas.fa-rocket{
+    padding-left: 90%;
+    color: red;
+
+}
+
+#postCard{
+    font-weight: bold;
+    padding-left:2em;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 959px) and (min-width: 768px) {
+.block {padding: 40px; width:620px;}
+}
+@media screen and (max-width: 767px) {
+.block {padding: 30px; width:420px;}
+.block {padding: 30px;}
+.parallax-one, .parallax-two {padding-top:100px; padding-bottom:100px;}
+}
+@media screen and (max-width: 479px) {
+.block {padding: 30px 15px; width:290px;}
+}

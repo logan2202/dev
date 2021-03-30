@@ -1,0 +1,15 @@
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\bin\Debug\decouverte de wpf.exe.config
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\bin\Debug\decouverte de wpf.exe
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\bin\Debug\decouverte de wpf.pdb
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\decouverte de wpf.csprojAssemblyReference.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\MainWindow.g.cs
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\App.g.cs
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\decouverte de wpf_MarkupCompile.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\decouverte de wpf_MarkupCompile.lref
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\MainWindow.baml
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\decouverte de wpf.g.resources
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\decouverte_de_wpf.Properties.Resources.resources
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\decouverte de wpf.csproj.GenerateResource.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\decouverte de wpf.csproj.CoreCompileInputs.cache
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\decouverte de wpf.exe
+C:\Users\tazmax\Documents\dev\decouverte de wpf\decouverte de wpf\decouverte de wpf\obj\Debug\decouverte de wpf.pdb

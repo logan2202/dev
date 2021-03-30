@@ -1,0 +1,143 @@
+.navbar {
+    width: 100%;
+    background-color: #E03000;
+    padding: 0;
+    margin: 0;
+}
+.navbar-nav {
+    margin: 0 auto;
+ }
+ .nav-link {
+     color: #000;
+     font-size: 1.5em;
+     text-align: center;
+ }
+ .nav-item:hover {
+     background-color: #61bde4;
+ }
+ .nav-link:hover {
+     color: black;
+     text-decoration: none;
+ }
+
+ /*Panner*/
+.modal-body h1 {
+    font-size: 20px;
+}
+.modal-body .btn {
+    padding-bottom: 21px;
+}
+.modal-body .modal-item {
+    display: none;
+}
+.imgModal {
+    width: 150px;
+}
+
+
+.textIndex {
+    margin-top: 30px;
+}
+.titreIndex {
+    margin-bottom: 30px;
+}
+#intro {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  background-image: url("../img/empire-of-japan.png");
+  background-size: cover;
+  background-position: center;
+}
+
+@font-face {font-family: "Ungai";
+  src: url("../fonts/1e3dd3f3b6ab8cd1585d1f2b24f1e9d5.eot"); /* IE9*/
+  src: url("../fonts/1e3dd3f3b6ab8cd1585d1f2b24f1e9d5.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../fonts/1e3dd3f3b6ab8cd1585d1f2b24f1e9d5.woff2") format("woff2"), /* chrome、firefox */
+  url("../fonts/1e3dd3f3b6ab8cd1585d1f2b24f1e9d5.woff") format("woff"), /* chrome、firefox */
+  url("../fonts/1e3dd3f3b6ab8cd1585d1f2b24f1e9d5.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../fonts/1e3dd3f3b6ab8cd1585d1f2b24f1e9d5.svg#Ungai") format("svg"); /* iOS 4.1- */
+}
+
+#welcome{
+  font-family:"Ungai" !important;
+    font-size:30px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+    color: black;
+}
+
+
+#logo{
+  width: 50%;
+
+}
+
+#panierIcon {
+    height: auto;
+    width: 50px;
+}
+
+ /* Card */
+.img {
+    width: 250px;
+    height: 400px;
+    transition:transform 0.2s;
+
+}
+/* Zoom Image en CSS (+simple que le JS mdr) */
+.img:hover {
+    transform:scale(1.60);
+    position:relative;
+    z-index:1
+}
+
+.card {
+    margin: 25px;
+}
+
+.sliderLeft {
+    background-image: url("../img/japan1.png");
+    background-size: cover;
+}
+
+.sliderRight {
+    background-image: url("../img/japan2.png");
+    background-size: cover;
+}
+
+footer{
+    background-color: red;
+    height: 250px;
+    width: 100%;
+}
+.titres{
+    font-size: 5em;
+}
+.mailTel{
+    font-size: 2em;
+}
+.ligne{
+    background-color: white;
+    height: 2px;
+    margin-top: 1%;
+}
+.payement{
+    width: 200px;
+    height: 50px;
+}
+@media only screen and (max-device-width:800px) {
+footer {
+    background-color: red;
+    height: 480px;
+    width: 100%;
+    }
+   }
+.espace{
+    width: 100%;
+    height: 50px;
+}
