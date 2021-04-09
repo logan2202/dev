@@ -1,0 +1,30 @@
+.espace{
+    padding-top: 15%;
+}
+h1, p{
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+}
+p{
+    font-size: 50px;
+}
+#oui1, #oui2, #non2, #non1{
+    height: 50px;
+    width: 500px;
+}
+#menu{
+    background-color: #4e4c4c;
+    color: white;
+    height: 758px;
+}
+#jeux{
+    background-color: #4e4c4c;
+    color: white;
+    height: 758px;
+}
+#img{
+    padding-left: 40%;
+    padding-top: 10%;
+}
